@@ -1,4 +1,4 @@
-# Within this file are four samples of my work documenting my knowledge of three visialization tools:
+# Within the Visualizations folder there are four samples documenting my working knowledge of visialization tools:
 * Tableau
 * SnowFlake
 * Power BI

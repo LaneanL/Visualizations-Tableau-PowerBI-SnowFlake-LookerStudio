@@ -9,23 +9,27 @@ access likely to expire due to the cost to maintain the account (Power Bi and Sn
 
   
 ## Tableau:
-in progres...
+![image](https://github.com/LaneanL/Visualizations-Tableau-PowerBI-SnowFlake-LookerStudio/assets/132226337/5f3a53a7-aa81-45a2-9e94-6478890eed9d)
+
 
 
 
     
 ## Snowflake:
-![Screenshot 2023-07-03 123621](https://github.com/LaneanL/Visualizations-Using-Tableau-Poweer-BI-SnowFlake-Looker-Studio/assets/132226337/67806092-e462-466c-93a9-a0aac5203b10)
+![image](https://github.com/LaneanL/Visualizations-Tableau-PowerBI-SnowFlake-LookerStudio/assets/132226337/6d2a7e43-4229-4985-b20b-50db6e390dbe)
+
+
 
 
   
   
 ## Power BI:
-![Screenshot 2023-07-03 160641](https://github.com/LaneanL/Visualizations-Using-Tableau-Poweer-BI-SnowFlake-Looker-Studio/assets/132226337/87fb52b2-a205-4385-ad10-737a59eb5303)  
+![image](https://github.com/LaneanL/Visualizations-Tableau-PowerBI-SnowFlake-LookerStudio/assets/132226337/c701de35-3dba-4fa3-8cba-05beb2b46861)
+
 
 
 
 
 
 ##  Looker Studio   
-inprogress...
+in progress...

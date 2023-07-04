@@ -6,10 +6,10 @@
 * Line chart of estimate by injury
 * Treemap of estimate by type and injury
 * Area chart of estimate by age
-
-
-
-* Pin the 5 visual to the Injuries DashBoard
+  
+***
+Pin the 5 visuals to the Injuries DashBoard
+***
 
 Task 1  
 . Load the dataset “injuries.xlsx”   
@@ -44,5 +44,11 @@ Prepare for creation of the Dashboard
 Injuries Dashboard
 ![image](https://github.com/LaneanL/Visualizations-Using-Tableau-Poweer-BI-SnowFlake-Looker-Studio/assets/132226337/fd091552-f81e-491f-bb78-cf986e47b581)
 
-
+## Impression:
+* Most injuries occur in the 0- 17 age group (22.61%). The second largest is the 15- 24 age group (12.62%).
+* Most injuries appear in the ER; the assumption the injury is either after-hours or a presumed need for emergent care.
+* The three most common injuries for Emergency Department visits are:
+   1. Unintentional Falls
+   2. Unintentionally struck by or against an object
+   3. Motor vehicle collision
 

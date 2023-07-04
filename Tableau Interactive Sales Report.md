@@ -6,9 +6,9 @@
       1. configure the actions of the dashboard for each filter to run on *Select*
       2. filter for one field
   
-
+***
      
-## [Tableau portfolio](https://public.tableau.com/app/profile/lanean.l)
+#### [Tableau portfolio](https://public.tableau.com/app/profile/lanean.l)
 
 
 
@@ -18,7 +18,7 @@
   ![image](https://github.com/LaneanL/Visualizations-Tableau-PowerBI-SnowFlake-LookerStudio/assets/132226337/d2e80db4-1b41-4860-ab9a-db6acc2e3d81)
 
   
- [view Simple Sales Dashboard](https://github.com/LaneanL/Visualizations-Tableau-PowerBI-SnowFlake-LookerStudio/assets/132226337/a56a1551-1322-41c6-88f2-aa80f4b303f5)
+ [view Simple Sales Dashboard](https://public.tableau.com/app/profile/lanean.l/viz/SimpleSalesDashboard_16885024604430/SalesDashboard)
    
 
    
@@ -28,7 +28,7 @@
 
 
 
-[view National Sales Dashboard](https://github.com/LaneanL/Visualizations-Tableau-PowerBI-SnowFlake-LookerStudio/assets/132226337/0e9bc71e-b211-4fc6-bd24-c445c11dae46)
+[view National Sales Dashboard](https://public.tableau.com/app/profile/lanean.l/viz/NationalSalesDashboard_16885059232620/NationalSalesDashboard)
   
   
    
@@ -37,7 +37,7 @@
 ![image](https://github.com/LaneanL/Visualizations-Tableau-PowerBI-SnowFlake-LookerStudio/assets/132226337/14739ede-da71-4f02-9636-871ad1fb32d7)
 
 
- [view Exploration Sales Dashboard](https://github.com/LaneanL/Visualizations-Tableau-PowerBI-SnowFlake-LookerStudio/assets/132226337/3626dad3-a84c-4670-9d53-0856dcb1da3c)  
+ [view Exploration Sales Dashboard](https://public.tableau.com/app/profile/lanean.l/viz/SalesExplorationDashboard/ExplorationDashboard)
     
     
 ## Exploration Summary 

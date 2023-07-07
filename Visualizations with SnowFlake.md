@@ -110,6 +110,6 @@ Least Online Spend for RareBurger- $301 and other- $653
 Heat grid: Median Spend per Transaction for Juniors- $75.72 and RareBurger- $392.24  
 
 ## Summary  
-> * Rareburger has the highest number of customers for all three zip code (10003, 10019, and 10036). However, Rareburger does not capture the highest number of Customers for location 10003 and 10036.  
-> * RareBurger should further promote their online presence to gain more customers by location.  
-> * Given RareBurger has the highest Number of Customer by Location, RareBurger has quality products that consumers seek. Consider promoting growth as a better alternative to Hard Rock and Marks on the lowest sale days.
+> * Rareburger has the highest number of customers for all three zip code (10003, 10019, and 10036). However, Rareburger does not capture the highest number of dollars spent for locations 10003 and 10036.  
+> * To reach more customers RareBurger should further promote their online presence to gain more customers by location.  
+> * Given RareBurger has the highest Number of Customer by Location, RareBurger has quality and tasteful products that consumers seek. Consider promotions that offer an incentive to order Rareburger products over Hard Rock and Marks restaurant on the lowest sale days.

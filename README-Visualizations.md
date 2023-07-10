@@ -1,6 +1,6 @@
 # Within the Visualizations folder there are four samples documenting my working knowledge of visialization tools:
 * Tableau
-* SnowFlake
+* SnowFlake with SQL query
 * Power BI
 * Looker Studio
 
